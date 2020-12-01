@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "663499263906",
+    "firebase_url": "https://phonexamarinforms.firebaseio.com",
+    "project_id": "phonexamarinforms",
+    "storage_bucket": "phonexamarinforms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663499263906:android:b6dfd57940dd4a41876cfb",
+        "android_client_info": {
+          "package_name": "com.companyname.phonexamarinandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663499263906-mpm3g39vn0urs7sc7j2nhg24ts8p6vg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdUy_dlmFzDeM1mbJ6ORFWSP2OWQfeGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663499263906-mpm3g39vn0urs7sc7j2nhg24ts8p6vg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663499263906:android:0ac748aa5c3b0395876cfb",
+        "android_client_info": {
+          "package_name": "com.companyname.phonexamarinforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663499263906-mpm3g39vn0urs7sc7j2nhg24ts8p6vg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdUy_dlmFzDeM1mbJ6ORFWSP2OWQfeGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663499263906-mpm3g39vn0urs7sc7j2nhg24ts8p6vg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
